@@ -1,0 +1,14 @@
+{
+  "firstName": "daniella",
+  "lastName": "digiovanni",
+  "nickName": "dani",
+  "privateName": false,
+  "picture": "images/danielladigi.jpg",
+  "privatePicture": false,
+  "email": "daniella.digiovanni@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "danielladigi",
+  "privateGithub": false,
+  "superpower" : "excessive coffee drinker",
+  "academicinterests": "media studies"
+}
